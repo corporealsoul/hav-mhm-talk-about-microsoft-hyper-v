@@ -1,5 +1,3 @@
-### Title : Virtualization | What is Hyper-V Manager | anuniqsTV
-
 ### Description : This log in Virtualization, is to know what is Hyper-V Manager
 
 **GetHelp :** [https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
